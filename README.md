@@ -39,3 +39,7 @@
 - `main`: 안정화된 배포 브랜치
 - `develop`: 개발 브랜치
 - `feature/*`: 기능별 브랜치
+
+## ERD
+
+[ERDCloud 다이어그램 보기](https://www.erdcloud.com/d/n96msF4ZnJKTcwPEt)
